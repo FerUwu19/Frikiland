@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516308394070",
+    "project_id": "frikiland-1",
+    "storage_bucket": "frikiland-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516308394070:android:4c0de39da122a2421b1bf7",
+        "android_client_info": {
+          "package_name": "com.frikiland.frikiland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9gq3B2VnXa_Wi663sUFkLwx1UorKKz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

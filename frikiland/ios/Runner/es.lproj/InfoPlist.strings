@@ -1,0 +1,3 @@
+NSPhotoLibraryUsageDescription = "Porfavor habilite la galeria para subir imagenes...";
+NSLocationWhenInUseUsageDescription = "Porfavor habilite la localizacion para identificar su region...";
+PermissionGroupNotification = "Porfavor habilite las notificaciones para recibir nuevas noticias...";
